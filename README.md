@@ -1,4 +1,4 @@
 # ShoppingCatalogs
 navigation controller 
-![Alt Text](/Users/testinium/Desktop/addingProduct.gif)
+![Alt Text](https://github.com/ZeynepTurnali/ShoppingCatalogs/blob/main/addingProduct.gif)
 
