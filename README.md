@@ -1,5 +1,5 @@
 # ShoppingCatalogs
-navigation controller and table view
+Navigation controller and table view was used
 
 ### Adding product successfully
 ![Alt Text](https://github.com/ZeynepTurnali/ShoppingCatalogs/blob/main/Gifs/addingProduct.gif)
